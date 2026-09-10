@@ -1,0 +1,14 @@
+{
+  "name": "genpark-poseidon-prime-sponge-hash-skill",
+  "version": "1.0.0",
+  "description": "Poseidon arithmetic hash function optimized for zero-knowledge circuits using MDS mixing matrix and prime field S-boxes.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "poseidon-hash",
+    "zk-friendly",
+    "arithmetic-sponge",
+    "zk-circuits",
+    "cryptography"
+  ]
+}
